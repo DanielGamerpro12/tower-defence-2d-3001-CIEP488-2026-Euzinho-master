@@ -62,7 +62,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.018653054, g: 0.017906714, b: 0.01886791, a: 1}
+  m_Color: {r: 0.690566, g: 0.47062635, b: 0.44170165, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -231,7 +231,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.2981131, b: 0.013550583, a: 1}
+  m_Color: {r: 0.30038443, g: 0.4641509, b: 0.3068489, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -396,8 +396,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 0/1
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 755bc8931faeea246bad25072952de64, type: 2}
-  m_sharedMaterial: {fileID: 3379885694816436603, guid: 755bc8931faeea246bad25072952de64, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 56e4469059f6de640a1404f9a3ca23a8, type: 2}
+  m_sharedMaterial: {fileID: 2147374, guid: 56e4469059f6de640a1404f9a3ca23a8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -533,8 +533,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: $9999
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 755bc8931faeea246bad25072952de64, type: 2}
-  m_sharedMaterial: {fileID: 3379885694816436603, guid: 755bc8931faeea246bad25072952de64, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 56e4469059f6de640a1404f9a3ca23a8, type: 2}
+  m_sharedMaterial: {fileID: 2147374, guid: 56e4469059f6de640a1404f9a3ca23a8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

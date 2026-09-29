@@ -20,4 +20,4 @@ MonoBehaviour:
     nivel: 1
     estaAtivo: 0
     preco: 100
-  icone: {fileID: -832683954608562364, guid: c82d735819001f3468a38df1d5d87b3c, type: 3}
+  icone: {fileID: 7320272917706674015, guid: 1092e8a2bea548343909fbd4f60b580c, type: 3}

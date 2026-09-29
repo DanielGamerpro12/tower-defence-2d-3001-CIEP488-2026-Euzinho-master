@@ -18,4 +18,4 @@ MonoBehaviour:
     descricao: Elimina todos os inimigos, limitando o uso em 1x por partida.
     preco: 1000
     quantidade: 0
-  icone: {fileID: 2465446744227521459, guid: dce4bca706873014dae930c4d21f4fab, type: 3}
+  icone: {fileID: -7356456364102852197, guid: 089a2ce19c8b7e94d9b924b910c6dbff, type: 3}

@@ -20,4 +20,4 @@ MonoBehaviour:
     tempoTotal: 0
     melhorPontuacao: 0
     completado: 0
-  icone: {fileID: -9028196439320740020, guid: b83d697ff923a2d4685b65b33baee22e, type: 3}
+  icone: {fileID: -1926237072, guid: ee0fd8eb0ac768e40916a52304f604a1, type: 3}
